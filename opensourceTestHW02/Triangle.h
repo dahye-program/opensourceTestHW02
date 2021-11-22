@@ -7,5 +7,3 @@ struct Triangle {
 };
 
 struct Triangle Triangle_area(struct Triangle t);
-#pragma once
-#pragma once
