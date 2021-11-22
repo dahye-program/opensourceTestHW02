@@ -7,4 +7,4 @@ struct Triangle {
 };
 
 struct Triangle Triangle_area(struct Triangle t);
-しいしいしいしいし
+struct Triangle Triangle_area(struct Triangle t);
