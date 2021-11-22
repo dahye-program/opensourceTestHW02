@@ -7,7 +7,7 @@ int main(int argc, char* argv[]) {
 	t.width = 6;
 
 	result = Triangle_area(t);
-	printf("%d \n", result.area);
+	printf("%lf\n", result.area);
 
 	return 0;
 }

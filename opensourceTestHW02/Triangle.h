@@ -7,4 +7,3 @@ struct Triangle {
 };
 
 struct Triangle Triangle_area(struct Triangle t);
-struct Triangle Triangle_area(struct Triangle t);
